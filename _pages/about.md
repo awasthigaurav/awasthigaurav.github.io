@@ -25,9 +25,9 @@ I'm trying my best to explore some diverse research areas throughout my time as 
   - Served as a Teaching Assistant for the freshman BB101 - Biology course at IIT Bombay 
   
 ## Hobbies and other interests:
-I'm fairly into sports -- I enjoy swimming, the occasional round of golf, and also play some badminton. 
+I've been shifting places since childhood, am always up for travel, and you can count me in for any long walks or bicycle rides :)
 
-I've been shifting places since childhood, am always up for travel, and you can count me in for any long walks or bicycle rides!
+I'm fairly into sports -- I enjoy swimming, the occasional round of golf, and also play some badminton. I'm trying to learn new languages, and seem to have made some progress with Spanish -- hit me up if you ever want a practice buddy!
 
 I love music, particularly '90s rock; U2 are personal favourites. I'm also a big fan of the Star Wars and Disney-Pixar movies. *Yes Minister* and *Yes Prime Minister* remain my favourite TV shows to date.
 
