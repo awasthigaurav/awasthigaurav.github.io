@@ -1,9 +1,10 @@
-- title: Automatic Raga Recognition in Indian Classical Music 
+- title: Characterizing Granular Flow in a Rotating Cylinder 
+  guide: <a href="https://www.che.iitb.ac.in/faculty/devang-v-khakhar">Prof. Devang Khakhar</a>, IIT Bombay
   image:
-    src: /images/500x300.png
+    src: /images/granular-rot-cyl.png
     alt: nothing
   date:
-  description: Leveraged tonic normalized pitch-tracked frequencies of music samples for raga classification using LSTMs with attention.
+  description: Characterizing the velocity and stress profiles to aid understanding of flow, mixing and segregation dynamics; with relevance in the pharmaceutical and chemical industries. Simulated the system in LAMMPS.
   links:
     code: 
     demo: 
