@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[**Click here**](/files/CV_Gaurav_Awasthi.pdf) for my complete CV \
-(Last updated: September 2022)
+[**Click here**](/files/CV_Gaurav_Awasthi_website.pdf) for my complete CV. \
+(Last updated: November 2023)
 
-The rest of this page is under construction, please check back later.
