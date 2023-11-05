@@ -57,6 +57,7 @@
     alt: nothing
   date:
   description: Verified Torricelli’s theorem of efflux velocity by changing the height and area of the orifice in OpenFOAM. Contrasted laminar and turbulent flow using the icoFoam and pisoFoam solvers.
+  links:
     code: 
     demo: 
     blog: 
