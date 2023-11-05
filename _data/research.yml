@@ -44,7 +44,7 @@
     alt: nothing
   date:
   description: Implemented phase-field models on MOOSE and used finite-element methods to model grain growth during solidification of pure metals and alloys.
-    links:
+  links:
     code: 
     demo: 
     blog: 
@@ -57,7 +57,7 @@
     alt: nothing
   date:
   description: Studied the reasons behind the increased severity of the second wave of COVID-19 by finding differentially expressed proteins and peptides. Leveraged Skyline and MetaboAnalyst to examine mass spec files of nasal swab samples.
-    links:
+  links:
     code: 
     demo: 
     blog: 
