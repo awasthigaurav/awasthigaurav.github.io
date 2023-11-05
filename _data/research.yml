@@ -12,7 +12,7 @@
     report:
 
 - title: Investigating Breast Cancer Heterogeneity due to E-M Plasticity 
-  guide: <a href="https://www.be.iisc.ac.in/~mkjolly">Prof. Mohit Jolly</a>, Indian Institute of Science, Bengaluru
+  guide: <a href="https://be.iisc.ac.in/mohit-kumar-jolly/">Prof. Mohit Jolly</a>, Indian Institute of Science, Bengaluru
   image:
     src: /images/iisc2.png
     alt: nothing
@@ -25,7 +25,7 @@
     report:
 
 - title: Modeling Regulatory Networks Underlying Phenotypic Plasticity
-  guide: <a href="https://www.be.iisc.ac.in/~mkjolly">Prof. Mohit Jolly</a>, Indian Institute of Science, Bengaluru
+  guide: <a href="https://be.iisc.ac.in/mohit-kumar-jolly/">Prof. Mohit Jolly</a>, Indian Institute of Science, Bengaluru
   image:
     src: /images/iisc.png
     alt: nothing
@@ -38,7 +38,7 @@
     report:
 
 - title: Modeling Evolution of Microstructures in Cu-Al and Fe-Cr Systems
-  guide: <a href="https://www.homepages.iitb.ac.in/~anirbanpatra">Prof. Anirban Patra</a>, IIT Bombay
+  guide: <a href="https://homepages.iitb.ac.in/~anirbanpatra/">Prof. Anirban Patra</a>, IIT Bombay
   image:
     src: /images/phase-field.png
     alt: nothing
