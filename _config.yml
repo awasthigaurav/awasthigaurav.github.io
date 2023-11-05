@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Gaurav Awasthi"
   avatar           : "profile.jpg"
-  bio              : "Pre-final year undergraduate at IIT Bombay"
+  bio              : "Final-year ChemE undergraduate, IIT Bombay"
   location         : "Mumbai, India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=ITvfqO8AAAAJ"
   email            : "awasthi.gaurav02@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
