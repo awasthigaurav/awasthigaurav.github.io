@@ -1,6 +1,6 @@
 ---
 title: "Mechanistic Modeling of Regulatory Networks Underlying Cellular Differentiation"
-excerpt: "Guide: Prof. Mohit Jolly, Centre for BioSystems Science and Engineering, IISc Bengaluru<br/><img src='/images/iisc2.jpg'>"
+excerpt: "Guide: Prof. Mohit Jolly, Centre for BioSystems Science and Engineering, IISc Bengaluru<br/><img src='/images/iisc.jpg'>"
 collection: portfolio
 ---
 
