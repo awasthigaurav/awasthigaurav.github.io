@@ -11,13 +11,53 @@
     blog: 
     report:
 
-- title: Automatic Raga Recognition in Indian Classical Music 
+- title: Investigating Breast Cancer Heterogeneity due to E-M Plasticity 
+  guide: <a href="https://www.be.iisc.ac.in/~mkjolly">Prof. Mohit Jolly</a>, Indian Institute of Science, Bengaluru
   image:
-    src: /images/500x300.png
+    src: /images/iisc2.png
     alt: nothing
   date:
-  description: Leveraged tonic normalized pitch-tracked frequencies of music samples for raga classification using LSTMs with attention.
+  description: Analyzed the associations between the luminal-basal (L-B) and epithelial-mesenchymal (E-M) nature of cells by comparing correlations between the individual L-B and E-M characteristics. Performed perturbation analysis on possible gene network topologies and implemented clustering algorithms on the steady states to compare them with observed cell phenotypes
   links:
+    code: 
+    demo: 
+    blog: 
+    report:
+
+- title: Modeling Regulatory Networks Underlying Phenotypic Plasticity
+  guide: <a href="https://www.be.iisc.ac.in/~mkjolly">Prof. Mohit Jolly</a>, Indian Institute of Science, Bengaluru
+  image:
+    src: /images/iisc.png
+    alt: nothing
+  date:
+  description: Built a Boolean network to model how “teams” of epithelial and mesenchymal transcription factors interact, specifically to elucidate the existence of a partial E-M hybrid in cancer
+  links:
+    code: 
+    demo: 
+    blog: 
+    report:
+
+- title: Modeling Evolution of Microstructures in Cu-Al and Fe-Cr Systems
+  guide: <a href="https://www.homepages.iitb.ac.in/~anirbanpatra">Prof. Anirban Patra</a>, IIT Bombay
+  image:
+    src: /images/phase-field.png
+    alt: nothing
+  date:
+  description: Implemented phase-field models on MOOSE and used finite-element methods to model grain growth during solidification of pure metals and alloys.
+    links:
+    code: 
+    demo: 
+    blog: 
+    report:
+
+- title: Proteomic Analysis of the Second Wave of COVID-19 in India
+  guide: <a href="https://www.bio.iitb.ac.in/people/faculty/srivastava-s/">Prof. Sanjeeva Srivastava</a>, IIT Bombay
+  image:
+    src: /images/proteomics.png
+    alt: nothing
+  date:
+  description: Studied the reasons behind the increased severity of the second wave of COVID-19 by finding differentially expressed proteins and peptides. Leveraged Skyline and MetaboAnalyst to examine mass spec files of nasal swab samples.
+    links:
     code: 
     demo: 
     blog: 
