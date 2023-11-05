@@ -13,11 +13,7 @@ I enjoy learning new things, meeting new people and just new experiences in gene
 
 ## Research: 
 While not completely defined, my current interests revolve around the mathematical and physical modeling of biological systems. I'm also interested in computational soft matter and polymers. \
-I've tried my best to get a flavour of research as an undergrad, and have been lucky to find amazing mentors to guide me while I attempt to do so. Some of the highlights are mentioned here, see the Projects section or my CV (linked above) for details:
- - Currently pursuing a project on modeling granular flow in a rotating cylinder under Prof. Devang Khakhar, IIT Bombay
- - Research intern at the Cancer Systems Biology lab at the Indian Institute of Science, Bengaluru under the guidance of Prof. Mohit Jolly
- - Worked at the Computational Mechanics and Materials Research Group at IIT Bombay under Prof. Anirban Patra. I received the Undergraduate Research Award (URA 01) for my work!
- - Worked under Prof. Sanjeeva Srivastava at the Proteomics Laboratory, IIT Bombay
+I've tried my best to get a flavour of research as an undergrad, and have been lucky to find amazing mentors to guide me while I attempt to do so. Some of the highlights are mentioned in the Projects section; see my CV (linked above) for details.
 
 ### Skills:
 I have been fortunate enough to pick up a few skills along my exciting research journey, and hope to continue expanding this list!
