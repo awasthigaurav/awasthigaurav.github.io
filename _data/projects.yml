@@ -1,22 +1,62 @@
-- title: Automatic Raga Recognition in Indian Classical Music 
+- title: Granular Flow on an Inclined Plane 
+  guide: <a href="https://www.che.iitb.ac.in/faculty/devang-v-khakhar">Prof. Devang Khakhar</a>, IIT Bombay
   image:
-    src: /images/500x300.png
+    src: /images/granular-incl-plane.png
     alt: nothing
   date:
-  description: Leveraged tonic normalized pitch-tracked frequencies of music samples for raga classification using LSTMs with attention.
+  description: Utilized LAMMPS to simulate the flow of powdered material down an inclined plane. Varied the particle-size ratios and plane inclination to study their effects on segregation.
   links:
     code: 
     demo: 
     blog: 
     report:
 
-- title: Automatic Raga Recognition in Indian Classical Music 
+- title: Identifying Materials Genes of Heterogeneous Catalysts
+  guide: <a href="https://www.che.iitb.ac.in/index.php/faculty/akkihebbal-k-suresh/">Prof. A. K. Suresh</a>, IIT Bombay
   image:
-    src: /images/500x300.png
+    src: /images/cre2-honors.png
     alt: nothing
   date:
-  description: Leveraged tonic normalized pitch-tracked frequencies of music samples for raga classification using LSTMs with attention.
+  description: Critically reviewed and presented the <a href="https://link.springer.com/article/10.1557/s43577-021-00165-6">Foppa et al. (2021)</a> article detailing the computational and experimental procedure to identify key parameters determining catalyst performance.
   links:
+    code: 
+    demo: 
+    blog: 
+    report:
+
+- title: Benard-Marangoni Film Instabilities
+  guide: <a href="https://be.iisc.ac.in/jason-r-picardo/">Prof. Jason Picardo</a>, IIT Bombay
+  image:
+    src: /images/cl336-honors.png
+    alt: nothing
+  date:
+  description: Reviewed Rayleigh-Taylor and B ́enard–Marangoni instabilities in a liquid film, derived the stability criteria and used Python to simulate its time-varying state on perturbation.
+  links:
+    code: 
+    demo: 
+    blog: 
+    report:
+
+- title: CFD Simulation of Flow in a Centrifugal Pump
+  guide: <a href="https://www.che.iitb.ac.in/faculty/devang-v-khakhar">Prof. Devang Khakhar</a>, IIT Bombay
+  image:
+    src: /images/centrifugal-pump.png
+    alt: nothing
+  date:
+  description: Designed a FreeCAD model, performed meshing using Salome and simulated both steady state and transient incompressible flow in OpenFOAM. Varied the number of vanes in the impeller to ascertain the effect on output pressure.
+  links:
+    code: 
+    demo: 
+    blog: 
+    report:
+
+- title: Flow Patterns in Draining of a Tank
+  guide: <a href="https://www.che.iitb.ac.in/faculty/devang-v-khakhar">Prof. Devang Khakhar</a>, IIT Bombay
+  image:
+    src: /images/cl254-tank.png
+    alt: nothing
+  date:
+  description: Verified Torricelli’s theorem of efflux velocity by changing the height and area of the orifice in OpenFOAM. Contrasted laminar and turbulent flow using the icoFoam and pisoFoam solvers.
     code: 
     demo: 
     blog: 
