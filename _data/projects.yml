@@ -1,0 +1,23 @@
+- title: Automatic Raga Recognition in Indian Classical Music 
+  image:
+    src: /images/500x300.png
+    alt: nothing
+  date:
+  description: Leveraged tonic normalized pitch-tracked frequencies of music samples for raga classification using LSTMs with attention.
+  links:
+    code: 
+    demo: 
+    blog: 
+    report:
+
+- title: Automatic Raga Recognition in Indian Classical Music 
+  image:
+    src: /images/500x300.png
+    alt: nothing
+  date:
+  description: Leveraged tonic normalized pitch-tracked frequencies of music samples for raga classification using LSTMs with attention.
+  links:
+    code: 
+    demo: 
+    blog: 
+    report:
