@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! I'm Gaurav, currently a final-year undergraduate at the Indian Institute of Technology (IIT) Bombay. I'm pursuing my B.Tech in Chemical Engineering (with honors). \
+Hello there! I'm Gaurav, currently a final-year undergraduate at the Indian Institute of Technology (IIT) Bombay. I'm pursuing my B.Tech in Chemical Engineering (with honors). I will be starting my PhD in Chemical Engineering at MIT in fall 2024. \
 I enjoy learning new things, meeting new people and just new experiences in general. I'm fairly enthusiastic about a career in research at the moment, and hope to one day work at the intersection of science and business. I have been involved in a fairly diverse set of activities throughout my time as an undergrad, and have attempted to detail some of them here on my little corner of the Internet.
 
 ## Research: 
-While not completely defined, my current interests revolve around the mathematical and physical modeling of biological systems. I'm also interested in computational soft matter and polymers. \
+While not completely defined, my current interests revolve around using computational and experimental tools for applications in biological systems, particularly inclined towards health and disease. I'm also interested in soft matter and polymers. \
 I've tried my best to get a flavour of research as an undergrad, and have been lucky to find amazing mentors to guide me while I attempt to do so. Some of the highlights are mentioned in the Projects section; see my CV (linked above) for details.
 
 ### Skills:
